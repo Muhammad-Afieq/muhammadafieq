@@ -91,6 +91,8 @@ Photography was limited for safety and privacy reasons, but Mr. Jaya made the se
 One improvement could be providing more visual materials, like diagrams or videos, to supplement the explanations when photography isn’t allowed. This would make it easier for students to understand complex processes.
 
 Overall, the visit was a valuable learning experience. It helped me connect theory to real-world pharmaceutical operations and inspired me to strengthen both my technical knowledge and soft skills to prepare for future careers in technology and healthcare.
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/3d61bce1-5701-4f23-8e14-864768f644e6" />
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/601eb71b-f9d8-47e5-918f-b21d1db00939" />
 
                                                                                                                                            
 Design Thinking (Low Fidelity Prototype) | Semester 1:                                                                                                                                
