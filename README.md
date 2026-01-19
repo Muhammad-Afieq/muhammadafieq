@@ -3,12 +3,12 @@
 # PROFILE  
 
 ![WhatsApp Image 2026-01-19 at 08 51 00](https://github.com/user-attachments/assets/a568fa90-704d-45a7-b571-4b5e2c44fa5d)
-
-   NAME: MUHAMMAD AFIEQ BIN HASBULLAH                                              
-   SECTION:05                                       
-   COURSE CODE:SECP1513
-   COURSE NAME:TECHNOLOGY AND INFORMATION SYSTEM
-   LECTURER:ASSOCIATE PROF DR.AZURAH BINTI A SAMAH
+ 
+   NAME: MUHAMMAD AFIEQ BIN HASBULLAH                                                                                                          
+   SECTION:05                                                                                                                                        
+   COURSE CODE:SECP1513                                                                                          
+   COURSE NAME:TECHNOLOGY AND INFORMATION SYSTEM                                                   
+   LECTURER:ASSOCIATE PROF DR.AZURAH BINTI A SAMAH                                                  
 
  # SUMMARY
 
