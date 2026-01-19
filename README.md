@@ -76,12 +76,15 @@ Overall, the talk increased my interest in how technology is applied in large or
 Industry Talk for Serunai Commerce Sdn Bhd Industry | 18 December 2025:                                                                                                                                
 The industrial talk from Ts.Haji Abdul Halim Bin Abdul Muttalib gave me a clear view of how project management and system development work in real industry settings. I realized that a successful project isn’t just about technical skills—it also depends on good planning, clear communication, and teamwork. Learning about methodologies like Waterfall and Agile made me see that the right approach depends on the project’s needs, not personal preference. It also helped me understand the SDLC better and how each phase plays a role in reducing errors and ensuring systems run smoothly.
 
-One way the talk could be improved is by including more real-life case studies or showing actual projects from the industry. Adding interactive elements like Q&A sessions, group discussions, or mini activities could make it more engaging and help students connect theory to practice. Hearing about the challenges professionals face and how they solve them would also add a lot of value.
+One way the talk could be improved is by including more real-life case studies or showing actual projects from the industry. Adding interactive elements like longer Q&A sessions, group discussions, or mini activities could make it more engaging and help students connect theory to practice. Hearing about the challenges professionals face and how they solve them would also add a lot of value.
 
 Overall, the talk motivated me to focus not just on technical skills but also on soft skills like communication, teamwork, and time management. It reminded me that AI tools are best used to support learning, not replace understanding the basics. This experience has encouraged me to be proactive in preparing for industry expectations and to keep improving both my technical abilities and personal development.
+<img width="893" height="1263" alt="image" src="https://github.com/user-attachments/assets/280a51af-cf53-4746-a3ff-e2590da19ffb" />
+<img width="893" height="1263" alt="image" src="https://github.com/user-attachments/assets/e2146812-6cdf-42a1-9fa4-0115b53a34a4" />
+<img width="893" height="1263" alt="image" src="https://github.com/user-attachments/assets/5a4efbc3-aa93-48c4-b10a-4770ba2b3913" />
 
                                                                                                                                           
-Industry Visit at Biocon | 23 December 2025:                                                                                                                                                              
+Industry Visit at Biocon Sdn Bhd | 23 December 2025:                                                                                                                                                              
 I had the chance to visit Biocon, where students were split into three groups, and I joined the DP (Drug Product) Operation department led by Mr. Jaya. The visit gave me a clear look at how insulin is produced and packaged in an industrial setting.
 
 Mr. Jaya explained the four main steps of insulin production. First, formulation, where insulin is prepared with precise composition and quality control. Next is filling, where containers are accurately filled under strict sterile conditions. This is followed by visual inspection, ensuring every product meets safety and quality standards. Finally, packaging seals, labels, and prepares the insulin for distribution. Seeing how these steps work together helped me understand the careful planning and precision required in pharmaceutical manufacturing.
@@ -101,6 +104,8 @@ The AutiCont project does a great job applying design thinking to help autistic 
 Future versions could also benefit from working closely with therapists or psychologists to improve stress detection and intervention recommendations. Longer testing with real users would help uncover limitations and make the system more reliable. From my own learning experience, the project highlighted the importance of not relying too much on AI-generated ideas and focusing more on research and critical thinking to create original solutions.
 
 Overall, this project reinforced that technology should prioritize empathy, responsibility, and real-world impact. Combining technical skills with human-centered design can lead to solutions that genuinely improve lives. This experience has encouraged me to be more reflective, creative, and thoughtful when designing systems in the future.
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/c8620d0b-39ee-486e-8030-208dcb3d607c" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/c1cceab9-d712-47fb-b1bb-a7a0fd9c6aa2" />
 
   
    
