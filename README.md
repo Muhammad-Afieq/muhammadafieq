@@ -16,14 +16,14 @@
    
 # CORE
  # EDUCATION
-   Bachelor of Computer Science in Network and Security with Honours Universiti Teknologi Malaysia | 2025-2029
-   Engineering and Technology at Kolej Mara Kuala Nerang  | 2024-2025
-         CGPA : 3.96
-         MUET : 4.00
-   Science Elective at SMK Datuk Haji Ahmad Badawi | 2019-2024
-         SPM : 6A 3B
-   Sekolah Kebangsaan Bertam Perdana | 2014-2018
-         UPSR : 6B 2C
+   Bachelor of Computer Science in Network and Security with Honours Universiti Teknologi Malaysia | 2025-2029                                                                            
+   Engineering and Technology at Kolej Mara Kuala Nerang  | 2024-2025                                                        
+         CGPA : 3.96                                                                                                
+         MUET : 4.00                                                                                  
+   Science Elective at SMK Datuk Haji Ahmad Badawi | 2019-2024                                          
+         SPM : 6A 3B                                                               
+   Sekolah Kebangsaan Bertam Perdana | 2014-2018 
+         UPSR : 6B 2C 
 
  # POSITION
    Bachelor of Computer Science in Network and Security with Honours Universiti Teknologi Malaysia | 2025-2029
