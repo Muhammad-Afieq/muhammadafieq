@@ -91,8 +91,10 @@ Photography was limited for safety and privacy reasons, but Mr. Jaya made the se
 One improvement could be providing more visual materials, like diagrams or videos, to supplement the explanations when photography isn’t allowed. This would make it easier for students to understand complex processes.
 
 Overall, the visit was a valuable learning experience. It helped me connect theory to real-world pharmaceutical operations and inspired me to strengthen both my technical knowledge and soft skills to prepare for future careers in technology and healthcare.
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/060c063d-f200-4d53-954d-8e5810e1017c" />
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/aeb7c8cb-6475-474e-aee0-b369c21b97ea" />
 
-                                                                                                                                           
+                                                                                                                   
 Design Thinking (Low Fidelity Prototype) | Semester 1:                                                                                                                                
 The AutiCont project does a great job applying design thinking to help autistic children and their guardians, but there’s room for improvement. One idea is to make the app more interactive by adding customizable features, like adjustable alert thresholds or personalized calming suggestions based on each child’s behavior. This could help the app better meet individual needs and reduce false alerts.
 
