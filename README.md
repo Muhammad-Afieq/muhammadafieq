@@ -46,7 +46,7 @@
       Final Project | 3 BIT UP AND DOWN LIFT SYSTEM T FLIP FLOP                                                                                                                        
 
 # ASSIGNMENT
-   Industry Talk and Industry Visit:                                                                                                                                                                        
+   Industry Talk and Industry Visit:                                                                                                                                                                       
       From the industry talk and visit, I gained exposure to how real industries operate beyond what we learn in class. The speakers shared insights about current industry practices, required skills, and       expectations from fresh graduates. This helped me understand the importance of soft skills such as communication, teamwork, and time management, alongside technical knowledge. Seeing the actual working environment also gave me a clearer picture of career paths related to my field and how classroom learning connects to real job roles.
                                                                                                                                                            
 PC Assemble (Lab)                                                                                                       
