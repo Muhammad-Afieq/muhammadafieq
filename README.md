@@ -22,31 +22,31 @@
          MUET : 4.00                                                                                  
    Science Elective at SMK Datuk Haji Ahmad Badawi | 2019-2024                                          
          SPM : 6A 3B                                                               
-   Sekolah Kebangsaan Bertam Perdana | 2014-2018 
+   Sekolah Kebangsaan Bertam Perdana | 2014-2018                                                                                    
          UPSR : 6B 2C 
 
  # POSITION
-   Bachelor of Computer Science in Network and Security with Honours Universiti Teknologi Malaysia | 2025-2029
-       Committee members for Kolej Tun Razak as multimedia
-   Foundation of Engineering and Technology at Kolej Mara Kuala Nerang | 2024-2025
-       Active member in Chess club
-   Pre-Science: Science Elective at SMK Datuk Haji Ahmad Badawi | 2019-2024
-       Deputy President of the School Scout 
-  # Skill
-   Coding: C++
-   Web development: HTML
+   Bachelor of Computer Science in Network and Security with Honours Universiti Teknologi Malaysia | 2025-2029                                                                
+       Committee members for Kolej Tun Razak as multimedia                                                                            
+   Foundation of Engineering and Technology at Kolej Mara Kuala Nerang | 2024-2025                                           
+       Active member in Chess club                                                                                            
+   Pre-Science: Science Elective at SMK Datuk Haji Ahmad Badawi | 2019-2024                                                
+       Deputy President of the School Scout                                                                                      
+  # Skill                                                                                                               
+   Coding: C++                                                                                                              
+   Web development: HTML                                                                                                
 
 # AWARD
-   Gold Medal at Jamboree Sambutan 100 Tahun Pengakap Kedah 2022
+   Gold Medal at Jamboree Sambutan 100 Tahun Pengakap Kedah 2022                                                                 
 
 # PROJECT
-   SECP1513 TECHNOLOGY AND INFORMATION SYSTEM | 202526/1
-      Design Thinking Project | AutiCont
-   SECR1013 DIGITAL LOGIC | 202526/1
-      Final Project | 3 BIT UP AND DOWN LIFT SYSTEM T FLIP FLOP
+   SECP1513 TECHNOLOGY AND INFORMATION SYSTEM | 202526/1                                                           
+      Design Thinking Project | AutiCont                                                                 
+   SECR1013 DIGITAL LOGIC | 202526/1                                                                                   
+      Final Project | 3 BIT UP AND DOWN LIFT SYSTEM T FLIP FLOP                                                                                                  
 
 # ASSIGNMENT
-   Industry Talk and Industry Visit
+   Industry Talk and Industry Visit                                                                                                       
       From the industry talk and visit, I gained exposure to how real industries operate beyond what we learn in class. The speakers shared insights about current industry practices, required skills, and       expectations from fresh graduates. This helped me understand the importance of soft skills such as communication, teamwork, and time management, alongside technical knowledge. Seeing the actual working environment also gave me a clearer picture of career paths related to my field and how classroom learning connects to real job roles.
 
   
